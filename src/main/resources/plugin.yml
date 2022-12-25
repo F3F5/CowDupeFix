@@ -1,0 +1,3 @@
+name: CowDupeFix
+version: '${project.version}'
+main: f3f5.cowdupefix.CowDupeFix
