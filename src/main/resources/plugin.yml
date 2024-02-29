@@ -1,0 +1,4 @@
+name: CowDupeFix
+version: '${project.version}'
+main: me.miko.cowdupefix.CowDupeFix
+authors: [ MIKO ]
